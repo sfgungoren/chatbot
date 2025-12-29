@@ -1,0 +1,14 @@
+C:\Users\sfgun\OneDrive\Desktop\chatbot\bin\Debug\net8.0\Chatbot.exe
+C:\Users\sfgun\OneDrive\Desktop\chatbot\bin\Debug\net8.0\Chatbot.deps.json
+C:\Users\sfgun\OneDrive\Desktop\chatbot\bin\Debug\net8.0\Chatbot.runtimeconfig.json
+C:\Users\sfgun\OneDrive\Desktop\chatbot\bin\Debug\net8.0\Chatbot.dll
+C:\Users\sfgun\OneDrive\Desktop\chatbot\bin\Debug\net8.0\Chatbot.pdb
+C:\Users\sfgun\OneDrive\Desktop\chatbot\obj\Debug\net8.0\Chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sfgun\OneDrive\Desktop\chatbot\obj\Debug\net8.0\Chatbot.AssemblyInfoInputs.cache
+C:\Users\sfgun\OneDrive\Desktop\chatbot\obj\Debug\net8.0\Chatbot.AssemblyInfo.cs
+C:\Users\sfgun\OneDrive\Desktop\chatbot\obj\Debug\net8.0\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\sfgun\OneDrive\Desktop\chatbot\obj\Debug\net8.0\Chatbot.dll
+C:\Users\sfgun\OneDrive\Desktop\chatbot\obj\Debug\net8.0\refint\Chatbot.dll
+C:\Users\sfgun\OneDrive\Desktop\chatbot\obj\Debug\net8.0\Chatbot.pdb
+C:\Users\sfgun\OneDrive\Desktop\chatbot\obj\Debug\net8.0\Chatbot.genruntimeconfig.cache
+C:\Users\sfgun\OneDrive\Desktop\chatbot\obj\Debug\net8.0\ref\Chatbot.dll
